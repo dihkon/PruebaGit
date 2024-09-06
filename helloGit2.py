@@ -1,1 +1,1 @@
-print "otro print"
+print "otro print de main"
